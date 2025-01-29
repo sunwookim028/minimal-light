@@ -10,8 +10,14 @@ I am a Fulbright scholar seeking Ph.D. positions starting Fall 2025. I have expe
 
 - **Computer Architecture and Systems:** chaining specialized cores, reconfigurablity, heterogeneous memory/IO subsystem, design automation
 
+### Prior Experiences
+- *Coming soon!*
+
+### Potential Directions
+- *Coming soon!*
+
 ## News
 
-- **[Sept. 2024]** I am grateful to be nominated as a Fulbright scholar and receive financial support for graduate studies in U.S.
+- **[Sept. 2024]** I am grateful to be nominated as a Fulbright scholar and receive financial support for my doctoral studies in U.S.
 
 {% include_relative _includes/publications.md %}
