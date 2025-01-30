@@ -261,6 +261,16 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
+/* Adjust spacing only for second-level bullet points */
+ul ul li, ol ol li {
+  margin-bottom: 20px !important; /* Reduce spacing for nested list items */
+}
+
+/* If you want to further adjust third-level lists */
+ul ul ul li, ol ol ul li {
+  margin-bottom: 3px;
+}
+
 h1, h2, h3 {
   line-height:1.1;
 }
