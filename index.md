@@ -11,8 +11,7 @@ I am a Fulbright scholar seeking Ph.D. positions starting Fall 2025. I have expe
 - **Computer Architecture and Systems:** chaining specialized cores, reconfigurablity, heterogeneous memory/IO subsystem, design automation
 
 ### Prior Experiences
-- *Coming soon!*
-    - e.g. Analog computing tape-out, Pipelined CPU prototyping, xv6 kernel hacking, NPU hw-sw co-design, GPU acceleration, etc.
+- GPU acceleration, NPU hw-sw co-design, xv6 kernel hacking, Analog computing tape-out, Pipelined CPU prototyping.
 {% comment %}
 - Exploring alternative mechanisms for computing, I demonstrated [analog computing](https://github.com/sunwookim028/analog-fourier/) Fourier series.
 - Discovering X, Y.
