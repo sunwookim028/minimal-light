@@ -18,15 +18,17 @@ I am a Fulbright scholar seeking Ph.D. positions starting Fall 2025. I have expe
 - Discovering X, Y.
 {% endcomment %}
 
-### Potential Directions
-- accelerator integration aware system-wide design
-	- e.g. taming acc. cost, where to run OS
-- abstracting various tech options to unified interface
-    - e.g. het. storage engine, memory pooling, multilingual backends for compilers / frameworks (PyTorch APIs)
-- finding appropriate domain then vertically optimizing
-	- e.g. FPGA & algorithm co-evolution, quantum comm., DNA storage engines
-- EDA/dev solutions to aid design decisions within complex design space
-	- e.g. faster & richer FPGA dev cycle, ML in kernels / CAD / NAS
+### Potential Thrusts
+- Accelerator-rich Systems
+    - **acc. integration aware system-wide design** e.g. taming acc. cost, where to run OS
+    - **extending acc.s for wider utility** e.g. for evolving/compound workloads, CXL NMP & expander form, NPUs for linear algebra or graph workloads, virtualization, programmability & reconfigurability
+
+- Easy-to-use Heterogeneous Systems
+    - **unifying the interface** e.g. het. storage engine, memory pooling, language/framework and compilers supporting multiple machines (PyTorch)
+    - **EDA/dev tools, ML adoption** e.g. richer & faster FPGA iterations, HLS/DSLs, ML for arch/OS policies/circuits
+
+- Application-oriented Specialized Systems 
+    - **vertical co-optimization** e.g. FPGA & algorithm co-evolution, quantum comm., DNA storage engines, robotics
 
 ## News
 
